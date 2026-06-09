@@ -19,6 +19,6 @@ module.exports = {
 
         const message = interaction.options.getString('message');
         await interaction.channel.send(message);
-        await interaction.reply({content: "<:xmark:1513786587568148561> **Successfully** sent message.", flags: 64})
+        await interaction.reply({content: "<:check:1513786612566331432> **Successfully** sent message.", flags: 64})
     }
 }
