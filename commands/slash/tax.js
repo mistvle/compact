@@ -21,7 +21,7 @@ module.exports = {
       "components": [
         {
           "type": 10,
-          "content": `To receive **$R$${amount}**, you must charge *R$${newAmount}**.`
+          "content": `To receive **R$${amount}**, you must charge **R$${newAmount}**.`
         }
       ]
     }
