@@ -20,7 +20,7 @@ module.exports = {
           "items": [
             {
               "media": {
-                "url": "https://media.discordapp.net/attachments/1513643373251006537/1513651973411442709/dashboard_2.png?ex=6a2881c0&is=6a273040&hm=ca76fee97729156b1e0a4a1bda45a9ed28771acc712f708aa7f78693892473b6&=&format=webp&quality=lossless&width=550&height=183"
+                "url": "https://media.discordapp.net/attachments/1513643373251006537/1513651973411442709/dashboard_2.png?ex=6a2881c0&is=6a273040&hm=ca76fee97729156b1e0a4a1bda45a9ed28771acc712f708aa7f78693892473b6&=&format=webp&quality=lossless"
               }
             }
           ]
