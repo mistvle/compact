@@ -8,7 +8,7 @@ module.exports = {
         }
 
         await message.delete();
-        const channel = message.guild.channels.cache.get("1513641581134221484");
+        const channel = message.guild.channels.cache.get("1513641582665011233");
         await channel.send({
   "flags": 32768,
   "components": [
