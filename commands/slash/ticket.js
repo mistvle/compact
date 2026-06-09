@@ -56,7 +56,7 @@ module.exports = {
     if (sub === "rename") {
       const name = interaction.options.getString("name");
 
-      await channel.setName(name);
+      await interaction.channel.setName(name);
 
       return interaction.reply({
         content: `<:check:1513786612566331432> **Successfully** renamed ticket to **${name}**.`,
