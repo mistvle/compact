@@ -3,7 +3,7 @@ module.exports = {
 
   async execute(client, member) {
 
-    const channel = member.guild.channels.cache.get("1511676379505098792");
+    const channel = member.guild.channels.cache.get("1513644978386108416");
 
     if (channel) {
       channel.send({
